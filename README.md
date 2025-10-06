@@ -1,2 +1,2 @@
 # PongLeaderBoard
-Site com placar atualizado do jogo pong
+Site com placar do pong
